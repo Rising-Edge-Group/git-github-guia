@@ -24,6 +24,21 @@
 - Cheat Sheet
 
 ### Github (Repositorios remotos)
+- ¿Qué es gihub?
+- Otras opciones diferentes a github.
+- ¿Qué es remote?
+- Trabajando con remotos
+- Flujo de trabajo Pull-Merge-Push
+- Push branches (subir ramas)
+- Subiendo repositorio local
+- Rebasing
+- Cheat Sheet
 
 ### Colaboración con GitHub
+- ¿Cómo nos va a servir github para colaborar?
+- Flujo de trabajo pull request
+- Actualizando pull requests
+- Squashing
+- Revisiones de código
+- Cheat Sheet
 
