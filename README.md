@@ -6,16 +6,21 @@
 - ¿Qué es git?
 - Más acerca de Git
 - Instalación de Git
+  
 ### Usando git de forma basica
 - Haciendo diff para ver diferencias entre archivos
 - Primeros pasos
 - Seguimiento de archivos
 - Flujo de trabajo basico con git
 - Como escribir el mensaje de un commit
-- Deshaciendo cambios antes de hacer commit
+
+### Deshaciendo cosas
 - Corrigiendo cambios (amend)
+- Deshacer cambios antes de agregar archivos a staging area
+- Quitar archivos del stagging area
 - Git revert
 - Cheat Sheet
+  
 ### Ramas
 - ¿Qué es una rama?
 - Trabajando con ramas
